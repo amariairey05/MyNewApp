@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="t">
+  <title id="t">Goated Goats logo: a goofy goat with googly eyes and a game controller</title>
+  <!-- horns -->
+  <path d="M70 58 C52 30 30 26 22 40 C34 38 48 46 58 66 Z" fill="#E8D3A8" stroke="#3B2A1A" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M130 58 C148 30 170 26 178 40 C166 38 152 46 142 66 Z" fill="#E8D3A8" stroke="#3B2A1A" stroke-width="5" stroke-linejoin="round"/>
+  <!-- ears -->
+  <path d="M58 78 C34 72 18 84 14 96 C32 100 48 96 62 90 Z" fill="#B9874F" stroke="#3B2A1A" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M142 78 C166 72 182 84 186 96 C168 100 152 96 138 90 Z" fill="#B9874F" stroke="#3B2A1A" stroke-width="5" stroke-linejoin="round"/>
+  <!-- beard -->
+  <path d="M84 150 C86 176 96 192 100 194 C104 192 114 176 116 150 Z" fill="#F4E9D4" stroke="#3B2A1A" stroke-width="5" stroke-linejoin="round"/>
+  <!-- head -->
+  <path d="M60 70 C60 50 140 50 140 70 C146 100 138 128 124 146 C114 160 86 160 76 146 C62 128 54 100 60 70 Z" fill="#C99A62" stroke="#3B2A1A" stroke-width="5" stroke-linejoin="round"/>
+  <!-- forehead tuft -->
+  <path d="M86 58 C90 46 98 52 100 44 C102 52 110 46 114 58" fill="none" stroke="#3B2A1A" stroke-width="5" stroke-linecap="round"/>
+  <!-- snout -->
+  <ellipse cx="100" cy="128" rx="30" ry="22" fill="#E8D3A8" stroke="#3B2A1A" stroke-width="5"/>
+  <ellipse cx="90" cy="122" rx="4" ry="5" fill="#3B2A1A"/>
+  <ellipse cx="110" cy="122" rx="4" ry="5" fill="#3B2A1A"/>
+  <!-- googly eyes (mismatched) -->
+  <circle cx="80" cy="90" r="17" fill="#fff" stroke="#3B2A1A" stroke-width="5"/>
+  <circle cx="122" cy="88" r="13" fill="#fff" stroke="#3B2A1A" stroke-width="5"/>
+  <circle cx="86" cy="96" r="7" fill="#1C130B"/>
+  <circle cx="117" cy="84" r="5.5" fill="#1C130B"/>
+  <circle cx="88" cy="94" r="2" fill="#fff"/>
+  <circle cx="118.5" cy="82.5" r="1.6" fill="#fff"/>
+  <!-- goofy grin with buck teeth + tongue -->
+  <path d="M82 136 C92 148 108 148 118 136" fill="#7A2E2E" stroke="#3B2A1A" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="93" y="136" width="7" height="8" rx="1.5" fill="#fff" stroke="#3B2A1A" stroke-width="2.5"/>
+  <rect x="100" y="136" width="7" height="8" rx="1.5" fill="#fff" stroke="#3B2A1A" stroke-width="2.5"/>
+  <path d="M106 143 C108 154 118 156 119 147 C116 144 111 143 106 143 Z" fill="#E87A8C" stroke="#3B2A1A" stroke-width="3" stroke-linejoin="round"/>
+  <!-- game controller chomped in mouth corner -->
+  <g transform="translate(118 150) rotate(-18)">
+    <path d="M4 6 C4 -2 46 -2 46 6 C50 22 44 30 38 26 L32 20 L18 20 L12 26 C6 30 0 22 4 6 Z" fill="#2B1E13" stroke="#3B2A1A" stroke-width="3" stroke-linejoin="round"/>
+    <rect x="11" y="7" width="10" height="3.5" rx="1" fill="#E8D3A8"/>
+    <rect x="14.25" y="3.75" width="3.5" height="10" rx="1" fill="#E8D3A8"/>
+    <circle cx="35" cy="6" r="2.6" fill="#F2B84B"/>
+    <circle cx="40" cy="11" r="2.6" fill="#E87A8C"/>
+  </g>
+</svg>
